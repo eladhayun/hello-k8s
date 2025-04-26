@@ -3,5 +3,4 @@ kind: Namespace
 metadata:
   name: hello-k8s
   labels:
-    name: hello-k8s
-    environment: development 
+    name: hello-k8s 
